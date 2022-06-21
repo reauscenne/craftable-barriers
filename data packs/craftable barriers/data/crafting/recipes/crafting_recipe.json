@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:glass"
+    },
+    "addition": {
+        "item": "minecraft:bedrock"
+    },
+    "result": {
+        "item": "minecraft:barrier"
+    }
+}
